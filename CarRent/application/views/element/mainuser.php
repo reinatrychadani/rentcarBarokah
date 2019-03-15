@@ -89,36 +89,36 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php echo base_url() ?>assets/user/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets/user/images/Mobil1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Tank Top</a></h3>
+                    <h3><a href="#">Mobil Alphard</a></h3>
                     <p class="mb-0">Finding perfect t-shirt</p>
-                    <p class="text-primary font-weight-bold">$50</p>
+                    <p class="text-primary font-weight-bold">Rp 800.000 per hari</p>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php echo base_url() ?>assets/user/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets/user/images/Mobil4.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Corater</a></h3>
+                    <h3><a href="#">Mobil Jaguar</a></h3>
                     <p class="mb-0">Finding perfect products</p>
-                    <p class="text-primary font-weight-bold">$50</p>
+                    <p class="text-primary font-weight-bold">Rp 3.000.000 per hari</p>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php echo base_url() ?>assets/user/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php echo base_url() ?>assets/user/images/Mobil3.png" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Polo Shirt</a></h3>
+                    <h3><a href="#">Mobil Mini Cooper</a></h3>
                     <p class="mb-0">Finding perfect products</p>
-                    <p class="text-primary font-weight-bold">$50</p>
+                    <p class="text-primary font-weight-bold">Rp 800.000 per hari</p>
                   </div>
                 </div>
               </div>
